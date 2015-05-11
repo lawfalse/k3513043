@@ -203,3 +203,6 @@ require_once BASEPATH.'core/CodeIgniter.php';
 
 /* End of file index.php */
 /* Location: ./index.php */
+
+//Di tambahkan oleh k3513043
+//Juga ditambahkan oleh k3513043
